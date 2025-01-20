@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasin Hernandez</h1>
-<h3 align="center">I'm a results-oriented Full-Stack Software Developer with over 11 years of experience in IT and a passion for crafting innovative web applications. A passionate frontend developer from India</h3>
+<h3 align="center">I'm a results-oriented Full-Stack Software Developer with over 11 years of experience in IT and a passion for crafting innovative web applications. A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **.Net**
 
